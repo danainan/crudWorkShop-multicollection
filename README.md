@@ -1,6 +1,6 @@
 # crudWorkShop-multicollection
 
-# ต่อเนื่องจาก crudWorkShop เพิ่มเติม Code ใน -> App.js, Screen
+# ต่อเนื่องจาก crudWorkShop เพิ่มเติม Code ใน -> Screen
 
 ![picnew1](https://user-images.githubusercontent.com/71175110/204228898-0d8b8fe9-234e-4666-bd73-fbd0ffe8d728.jpg)
 
