@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005098753301",
+    "project_id": "crudworkshop-e1bfb",
+    "storage_bucket": "crudworkshop-e1bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005098753301:android:66ea8d68669e4960de5d1c",
+        "android_client_info": {
+          "package_name": "com.crudworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005098753301-rl8rtc99u9arnod53s6kpi29994a2r0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crudworkshop",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1005098753301-kleri648jkdfsj4dag6m3tf7rqo1jdjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWR-9LBVKn5Nu1eW7C2b5TJRH7ap7tu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005098753301-kleri648jkdfsj4dag6m3tf7rqo1jdjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
